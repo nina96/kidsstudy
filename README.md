@@ -6,5 +6,5 @@
     <a href="http://studentperformance-env.eba-jbdajxf9.us-east-1.elasticbeanstalk.com/Predictions">Student Performance Prediction</a>
 <h2> Screenshots</h2>
 <p>
-    <img src='/img/ss1.png'>
+    <img src='/img/ss1.png'/>
 </p>
