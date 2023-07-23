@@ -5,4 +5,4 @@
 <p>Click the link below to visit the app:</p>
     <a href="http://studentperformance-env.eba-jbdajxf9.us-east-1.elasticbeanstalk.com/Predictions">Student Performance Prediction</a>
 <h2> Screenshots</h2>
-![screenshots]('/img/ss1.png')
+![ScreenShots](/img/ss1.png)
